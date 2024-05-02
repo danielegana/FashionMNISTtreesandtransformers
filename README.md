@@ -8,4 +8,4 @@ I compare:
 - Scikit's bagging algorithm
 - XGboost
 
-Contrary to popular belief, trees do give a pretty good classification accuracy, up to 90%!
+Contrary to popular belief, trees do give a pretty good image classification accuracy that rivals CNNs, up to 90%!
