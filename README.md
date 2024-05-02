@@ -7,3 +7,5 @@ I compare:
 - Random forests
 - Scikit's bagging algorithm
 - XGboost
+
+Contrary to popular belief, trees do give a pretty good classification accuracy, up to 90%!
